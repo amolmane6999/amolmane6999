@@ -14,4 +14,5 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amolmane6999)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_amol_mane_07?igsh=bTdsbHA2NWdobnE3)
 
+- 📫 How to reach me **amolmane6999@gmail.com**
 

@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me : 
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Amul-Sharma/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/amol_mane_07/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-mane-316a99222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amolmane6999)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_amol_mane_07?igsh=bTdsbHA2NWdobnE3)

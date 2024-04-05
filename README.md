@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amul Sharma</h1>
+<h1 align="center">Hi 👋, I'm Amol Mane</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulsharma12&label=Profile%20views&color=0e75b6&style=flat" alt="amulsharma12" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
